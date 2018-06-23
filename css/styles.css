@@ -1,3 +1,22 @@
-img{
-  background-position: center;
+.box{
+  background-image: url(../images/landing.jpg);
+}
+.cox{
+  background-image: url(../images/breakfast.jpg);
+  text-align: center;
+  color: white;
+  height: 100%;
+}
+.cox1{
+  background-image: url(../images/lunch.jpg);
+  text-align: center;
+  color: white;
+}
+.cox2{
+  background-image: url(../images/dinner.jpg);
+  text-align: center;
+  color: white;
+}
+.box2{
+  background-image: url(../images/foodsBg.jpg);
 }

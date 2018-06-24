@@ -21,6 +21,10 @@ h3, .h3 {
     background-color: red;
     color: white;
   }
+.container {
+    width: 1170px;
+    margin: 60px;
+}
   #lov1{
     background-color: white
     color: black;
@@ -43,8 +47,23 @@ h3, .h3 {
   color: white;
   margin: 0;
 }
+h6, .h6 {
+    font-size: 12px;
+    text-align: center;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+    padding-bottom: 31px;
+    padding-left: 28px;
+    padding-right: 15px;
+  
+}
 .box2{
   background-image: url(../images/foodsBg.jpg);
+  padding: 70px;
+  background-color: white;
+}
 }
 .box3{
   background-image: url(../images/subscribe.jpg);
@@ -62,6 +81,12 @@ h3, .h3 {
   text-align: center;
   color: white;
   font-family: fantasy;
+}
+.tx{
+  text-align: center;
+  color: red;
+  margin-top: 20px;
+  background-color: white;
 }
 
 

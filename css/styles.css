@@ -13,6 +13,18 @@ h2, .h2 {
     margin: 0;
     border: 0;
     }
+h3, .h3 {
+    font-size: 24px;
+    text-align: center;
+  }
+#lov{
+    background-color: red;
+    color: white;
+  }
+  #lov1{
+    background-color: white
+    color: black;
+  }
 .cox{
   background-image: url(../images/breakfast.jpg);
   text-align: center;

@@ -27,5 +27,11 @@
   background-color: #F15A29;
 }
 .img-reponsive{
-  display: block;
+  display: inline;
+}
+.par{
+  text-align: center;
+  font-family: fantasy;
+  font-size: 36px;
+  color: white;
 }

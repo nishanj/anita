@@ -119,6 +119,9 @@ h6, .h6 {
 #mm1{
   text-align: right;
 }
+.btn btn-default{
+  color: red;
+}
 .box2{
   background-image: url(../images/foodsBg.jpg);
   padding: 70px;

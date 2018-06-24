@@ -57,7 +57,21 @@ h6, .h6 {
     padding-bottom: 31px;
     padding-left: 28px;
     padding-right: 15px;
-  
+
+}
+.al{
+  text-align: right;
+}
+.ali{
+  text-align: left;
+}
+}
+#{
+  padding-bottom: 31px;
+  margin-bottom: 60px;
+  text-align: center;
+  margin-top: 60px;
+}
 }
 .box2{
   background-image: url(../images/foodsBg.jpg);

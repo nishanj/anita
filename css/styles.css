@@ -113,6 +113,12 @@ h6, .h6 {
   padding-left: 0;
   padding-right: 0;
 }
+#mm{
+  text-align: left;
+}
+#mm1{
+  text-align: right;
+}
 .box2{
   background-image: url(../images/foodsBg.jpg);
   padding: 70px;
@@ -126,7 +132,7 @@ h6, .h6 {
 
 }
 #kap{
-  align-content: center;
+  float: left;
 }
 .box3{
   background-image: url(../images/subscribe.jpg);

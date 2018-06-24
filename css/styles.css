@@ -48,8 +48,10 @@ h3, .h3 {
   margin: 0;
 }
 h6, .h6 {
-    font-size: 12px;
-    text-align: center;
+  font-size: 12px;
+  text-align: center;
+  padding-bottom: 55px;
+  padding-top: 37px;
 }
 .row {
     margin-right: -15px;
@@ -65,6 +67,34 @@ h6, .h6 {
 .ali{
   text-align: left;
 }
+.pp{
+  text-align: center;
+  padding: 0;
+
+}
+.kl{
+  text-align: center;
+}
+.h5{
+  text-align: center;
+}
+.panel-default {
+    border-color: #ddd;
+    margin: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+.col-md-8 {
+    width: 66.66666667%;
+    padding-left: 0;
+    padding-right: 0;
+}
+#pq {
+    padding: 21px;
+    margin: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
 }
 #{
   padding-bottom: 31px;
@@ -72,24 +102,53 @@ h6, .h6 {
   text-align: center;
   margin-top: 60px;
 }
-
+#wro{
+  text-align: center;
+}
+#yes{
+  padding-left: 0;
+  padding-right: 0;
+}
+#no{
+  padding-left: 0;
+  padding-right: 0;
+}
 .box2{
   background-image: url(../images/foodsBg.jpg);
   padding: 70px;
   background-color: white;
 }
+.food{
+  color: white;
+  font-size: 28px;
+  padding-top: 106px;
+  padding-bottom: 10px;
 
+}
+#kap{
+  align-content: center;
+}
 .box3{
   background-image: url(../images/subscribe.jpg);
+  padding-bottom: 111px;
 }
 .box4{
   background-color: #F15A29;
+}
+#uj{
+  padding-bottom: 0;
+  padding-right: 0;
 }
 .img-reponsive{
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 20%;
+}
+.p2{
+  display: block;
+  margin: auto;
+
 }
 .center{
   text-align: center;

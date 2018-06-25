@@ -174,9 +174,15 @@ h6, .h6 {
   padding-bottom: 111px;
   text-align: center;
 }
+
 .box4{
   background-color: #F15A29;
 }
+#cap{
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
 h1, .h1 {
     font-size: 36px;
     display: inline;

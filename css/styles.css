@@ -145,7 +145,12 @@ h6, .h6 {
     padding-right: 0;
     padding-bottom: 0;
 }
-
+#{
+  padding-bottom: 31px;
+  margin-bottom: 60px;
+  text-align: center;
+  margin-top: 60px;
+}
 #wro{
   text-align: center;
 }
